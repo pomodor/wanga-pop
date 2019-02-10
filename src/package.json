@@ -1,0 +1,13 @@
+{
+  "name": "liberwanga",
+  "version": "1.0.0",
+  "description": "This AI-based soft predicts future posts popularity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "train": "nodejs train.js",
+    "classify": "nodejs classify.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
